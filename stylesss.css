@@ -13,6 +13,14 @@
   --warna-tulisan2 : #000;
 }
 
+.barrier {
+  width: 100%;
+  text-align: right;
+  margin-top: -20px;
+  padding-right: 10px;
+  color: #737373;
+}
+
 body {
   height: auto;
   display: flex;
